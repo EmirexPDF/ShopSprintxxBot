@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Sprint Leather Running Shoes", "category": "Footwear", "tags": ["shoes", "running", "leather"], "stock": 0},
+  {"id": 2, "name": "Sprint Mesh Trainers", "category": "Footwear", "tags": ["shoes", "running", "breathable", "alternative"], "stock": 15},
+  {"id": 3, "name": "Ergonomic Water Bottle", "category": "Accessories", "tags": ["gym", "water", "bottle"], "stock": 5}
+]
